@@ -1,0 +1,4 @@
+backend_host: backend.daws-81s.online
+
+app_location: /usr/share/nginx/html
+component: frontend
